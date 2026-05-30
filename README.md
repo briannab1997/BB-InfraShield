@@ -25,7 +25,7 @@ Live demo: https://briannab1997.github.io/BB-InfraShield/
 
 ## Why This Project
 
-The DoW Cyber Apprenticeship includes cyber defense infrastructure support roles. BB InfraShield is not a real scanner or monitoring tool, but it demonstrates the practical thinking behind infrastructure security:
+BB InfraShield is not a real scanner or monitoring tool, but it demonstrates practical infrastructure security thinking through a focused, entry-level-friendly workflow:
 
 - reviewing asset baselines
 - prioritizing patch and access control gaps
